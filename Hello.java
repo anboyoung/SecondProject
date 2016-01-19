@@ -1,6 +1,7 @@
 //for command line git tutorial
 //Local depository modification
-
+//GitHub modification
+>>>>>>> origin/master
 public class Hello{
 	public static void main(String[] args){
 	System.out.println("Hello Git!!");
